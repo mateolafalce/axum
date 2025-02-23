@@ -55,7 +55,8 @@ If your project isn't listed here and you would like it to be, please feel free 
 - [axum-kit](https://github.com/4lkaid/axum-kit): Streamline the integration and usage of axum with SQLx and Redis.
 - [tower_allowed_hosts](https://crates.io/crates/tower_allowed_hosts): Allowed hosts middleware which limits request from only allowed hosts.
 - [baxe](https://github.com/zyphelabs/baxe): Simple macro for defining backend errors once and automatically generate standardized JSON error responses, saving time and reducing complexity 
-
+- [axum-html-minifier](https://crates.io/crates/axum_html_minifier): This axum middleware intercepts responses body and minify the html content.
+  
 ## Project showcase
 
 - [HomeDisk](https://github.com/MedzikUser/HomeDisk): ☁️ Fast, lightweight and Open Source local cloud for your data.
